@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": "#minecraft:wooden_pressure_plates",
+    "S": "#minecraft:wooden_slabs"
+  },
+  "pattern": [
+    "SPS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cookingforblockheads:fruit_basket"
+  }
+}

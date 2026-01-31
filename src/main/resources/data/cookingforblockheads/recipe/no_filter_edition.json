@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "cookingforblockheads:recipe_book"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cookingforblockheads:no_filter_edition"
+  }
+}

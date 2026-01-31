@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#cookingforblockheads:cabinets",
+    "#c:dyes/blue"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cookingforblockheads:blue_cabinet"
+  }
+}

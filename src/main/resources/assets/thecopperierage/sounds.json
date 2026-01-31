@@ -1,0 +1,291 @@
+{
+  "block.gearbox.on": {
+    "sounds": [
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/activate1"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/activate2"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/activate3"
+      }
+    ],
+    "subtitle": "subtitles.block.gearbox.on"
+  },
+  "block.gearbox.off": {
+    "sounds": [
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/deactivate1"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/deactivate2"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/deactivate3"
+      }
+    ],
+    "subtitle": "subtitles.block.gearbox.off"
+  },
+  "block.gearbox.idle": {
+    "sounds": [
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle1"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle2"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle3"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle4"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle5"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle6"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle7"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle8"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle9"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle10"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle11"
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "thecopperierage:block/gearbox/idle12"
+      }
+    ],
+    "subtitle": "subtitles.block.gearbox.idle"
+  },
+  "block.copper_fan.on": {
+    "sounds": [
+      "thecopperierage:block/copper_fan/activate1",
+      "thecopperierage:block/copper_fan/activate2",
+      "thecopperierage:block/copper_fan/activate3"
+    ],
+    "subtitle": "subtitles.block.copper_fan.on"
+  },
+  "block.copper_fan.off": {
+    "sounds": [
+      "thecopperierage:block/copper_fan/deactivate1",
+      "thecopperierage:block/copper_fan/deactivate2",
+      "thecopperierage:block/copper_fan/deactivate3"
+    ],
+    "subtitle": "subtitles.block.copper_fan.off"
+  },
+  "block.copper_fan.idle_blow": {
+    "sounds": [
+      "thecopperierage:block/copper_fan/idle_blow1",
+      "thecopperierage:block/copper_fan/idle_blow2",
+      "thecopperierage:block/copper_fan/idle_blow3",
+      "thecopperierage:block/copper_fan/idle_blow4",
+      "thecopperierage:block/copper_fan/idle_blow5"
+    ],
+    "subtitle": "subtitles.block.copper_fan.idle_blow"
+  },
+  "block.copper_fan.idle_hum": {
+    "sounds": [
+      "thecopperierage:block/copper_fan/idle_hum1",
+      "thecopperierage:block/copper_fan/idle_hum2",
+      "thecopperierage:block/copper_fan/idle_hum3",
+      "thecopperierage:block/copper_fan/idle_hum4",
+      "thecopperierage:block/copper_fan/idle_hum5"
+    ],
+    "subtitle": "subtitles.block.copper_fan.idle_hum"
+  },
+  "block.chime.break": {
+    "sounds": [
+      "thecopperierage:block/chime/break1",
+      "thecopperierage:block/chime/break2",
+      "thecopperierage:block/chime/break3",
+      "thecopperierage:block/chime/break4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.chime.fall": {
+    "sounds": [
+      "minecraft:block/copper/step1",
+      "minecraft:block/copper/step2",
+      "minecraft:block/copper/step3",
+      "minecraft:block/copper/step4",
+      "minecraft:block/copper/step5",
+      "minecraft:block/copper/step6"
+    ]
+  },
+  "block.chime.hit": {
+    "sounds": [
+      "minecraft:block/copper/step1",
+      "minecraft:block/copper/step2",
+      "minecraft:block/copper/step3",
+      "minecraft:block/copper/step4",
+      "minecraft:block/copper/step5",
+      "minecraft:block/copper/step6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.chime.place": {
+    "sounds": [
+      "thecopperierage:block/chime/place1",
+      "thecopperierage:block/chime/place2",
+      "thecopperierage:block/chime/place3",
+      "thecopperierage:block/chime/place4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.chime.step": {
+    "sounds": [
+      "minecraft:block/copper/step1",
+      "minecraft:block/copper/step2",
+      "minecraft:block/copper/step3",
+      "minecraft:block/copper/step4",
+      "minecraft:block/copper/step5",
+      "minecraft:block/copper/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.chime.ambient": {
+    "sounds": [
+      "thecopperierage:block/chime/ambient1",
+      "thecopperierage:block/chime/ambient2",
+      "thecopperierage:block/chime/ambient3",
+      "thecopperierage:block/chime/ambient4",
+      "thecopperierage:block/chime/ambient5",
+      "thecopperierage:block/chime/ambient6",
+      "thecopperierage:block/chime/ambient7",
+      "thecopperierage:block/chime/ambient8",
+      "thecopperierage:block/chime/ambient9",
+      "thecopperierage:block/chime/ambient10",
+      "thecopperierage:block/chime/ambient11",
+      "thecopperierage:block/chime/ambient12",
+      "thecopperierage:block/chime/ambient13",
+      "thecopperierage:block/chime/ambient14"
+    ],
+    "subtitle": "subtitles.block.chime.ambient"
+  },
+  "block.chime.disturb": {
+    "sounds": [
+      "thecopperierage:block/chime/disturb1",
+      "thecopperierage:block/chime/disturb2",
+      "thecopperierage:block/chime/disturb3",
+      "thecopperierage:block/chime/disturb4",
+      "thecopperierage:block/chime/disturb5",
+      "thecopperierage:block/chime/disturb6",
+      "thecopperierage:block/chime/disturb7",
+      "thecopperierage:block/chime/disturb8",
+      "thecopperierage:block/chime/disturb9",
+      "thecopperierage:block/chime/disturb10"
+    ],
+    "subtitle": "subtitles.block.chime.disturb"
+  },
+  "item.copper_horn.recorder": {
+    "sounds": [
+      {
+        "name": "thecopperierage:item/copper_horn/recorder",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.item.copper_horn.call"
+  },
+  "item.copper_horn.flute": {
+    "sounds": [
+      {
+        "name": "thecopperierage:item/copper_horn/flute",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.item.copper_horn.call"
+  },
+  "item.copper_horn.oboe": {
+    "sounds": [
+      {
+        "name": "thecopperierage:item/copper_horn/oboe",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.item.copper_horn.call"
+  },
+  "item.copper_horn.saxophone": {
+    "sounds": [
+      {
+        "name": "thecopperierage:item/copper_horn/saxophone",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.item.copper_horn.call"
+  },
+  "item.copper_horn.clarinet": {
+    "sounds": [
+      {
+        "name": "thecopperierage:item/copper_horn/clarinet",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.item.copper_horn.call"
+  },
+  "item.copper_horn.trombone": {
+    "sounds": [
+      {
+        "name": "thecopperierage:item/copper_horn/trombone",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.item.copper_horn.call"
+  },
+  "item.copper_horn.trumpet": {
+    "sounds": [
+      {
+        "name": "thecopperierage:item/copper_horn/trumpet",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.item.copper_horn.call"
+  },
+  "item.copper_horn.tuba": {
+    "sounds": [
+      {
+        "name": "thecopperierage:item/copper_horn/tuba",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.item.copper_horn.call"
+  },
+  "item.wrench.use": {
+    "sounds": [
+      "thecopperierage:item/wrench/wrench1",
+      "thecopperierage:item/wrench/wrench2",
+      "thecopperierage:item/wrench/wrench3",
+      "thecopperierage:item/wrench/wrench4",
+      "thecopperierage:item/wrench/wrench5"
+    ],
+    "subtitle": "subtitles.item.wrench.use"
+  }
+}

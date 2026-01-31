@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#cookingforblockheads:ovens",
+    "#c:dyes/purple"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cookingforblockheads:purple_oven"
+  }
+}

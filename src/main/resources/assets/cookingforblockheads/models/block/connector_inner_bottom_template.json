@@ -1,0 +1,74 @@
+{
+	"credit": "Designed by Blay09 with Cubik Studio - https://cubik.studio",
+	"parent": "block/block",
+	"textures": {
+		"countertop": "block/polished_andesite",
+		"particle": "block/terracotta",
+		"texture": "block/terracotta",
+		"backsplash": "block/black_terracotta"
+	},
+	"elements": [
+		{
+			"name": "Backsplash",
+			"from": [0, 16, 14.5],
+			"to": [15.5, 18, 15.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
+			"faces": {
+				"north": {"uv": [0.5, 0, 16, 1], "texture": "#backsplash"},
+				"east": {"uv": [0.5, 0, 1.5, 1], "texture": "#backsplash"},
+				"south": {"uv": [0, 0, 15.5, 1], "texture": "#backsplash"},
+				"west": {"uv": [14.5, 0, 15.5, 1], "texture": "#backsplash"},
+				"up": {"uv": [0, 14.5, 15.5, 15.5], "texture": "#backsplash"}
+			}
+		},
+		{
+			"name": "Top",
+			"from": [0, 15, 0],
+			"to": [15.5, 16, 15.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
+			"faces": {
+				"north": {"uv": [0.5, 15, 16, 16], "texture": "#countertop"},
+				"east": {"uv": [0.5, 15, 16, 16], "texture": "#countertop"},
+				"south": {"uv": [0.5, 15, 16, 16], "texture": "#countertop"},
+				"west": {"uv": [0.5, 0, 16, 1], "texture": "#countertop"},
+				"up": {"uv": [0.5, 0, 16, 15.5], "rotation": 270, "texture": "#countertop"},
+				"down": {"uv": [0.5, 0, 16, 15.5], "rotation": 270, "texture": "#countertop"}
+			}
+		},
+		{
+			"name": "Base",
+			"from": [0, 0, 1],
+			"to": [15.5, 15, 15.5],
+			"faces": {
+				"north": {"uv": [0.5, 1, 16, 16], "texture": "#texture"},
+				"east": {"uv": [0.5, 1, 15, 16], "texture": "#texture"},
+				"south": {"uv": [0, 1, 15.5, 16], "texture": "#texture"},
+				"west": {"uv": [1, 1, 15.5, 16], "texture": "#texture"},
+				"down": {"uv": [0, 0.5, 15.5, 15], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Backsplash2",
+			"from": [14.5, 16, 0],
+			"to": [15.5, 18, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
+			"faces": {
+				"north": {"uv": [0.5, 0, 1.5, 1], "texture": "#backsplash"},
+				"east": {"uv": [1.5, 0, 16, 1], "texture": "#backsplash"},
+				"west": {"uv": [0, 0, 14.5, 1], "texture": "#backsplash"},
+				"up": {"uv": [14.5, 0, 15.5, 14.5], "texture": "#backsplash"}
+			}
+		},
+		{
+			"name": "WallFront",
+			"from": [1, 0, 0],
+			"to": [15.5, 15, 1],
+			"faces": {
+				"north": {"uv": [0.5, 1, 15, 16], "texture": "#texture"},
+				"east": {"uv": [15, 1, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 1, 1, 16], "texture": "#texture"},
+				"down": {"uv": [1, 15, 15.5, 16], "texture": "#texture"}
+			}
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": "minecraft:white_concrete",
+    "W": "minecraft:black_concrete"
+  },
+  "pattern": [
+    "BW",
+    "WB"
+  ],
+  "result": {
+    "count": 4,
+    "id": "cookingforblockheads:white_kitchen_floor"
+  }
+}

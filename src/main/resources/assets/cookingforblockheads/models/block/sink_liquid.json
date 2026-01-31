@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "block/water_still",
+		"milk": "block/water_still"
+	},
+	"elements": [
+		{
+			"name": "Liquid_Milk",
+			"from": [2.5, 8, 2.5],
+			"to": [13.5, 14, 13.5],
+			"faces": {
+				"up": {"uv": [5.5, 5.5, 16.5, 16.5], "texture": "#milk", "tintindex": 0}
+			}
+		}
+	]
+}

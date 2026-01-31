@@ -1,0 +1,81 @@
+{
+	"credit": "Made with Blockbench",
+	"render_type": "cutout",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/glass",
+		"all": "cookingforblockheads:block/milk_jar"
+	},
+	"elements": [
+		{
+			"name": "jar",
+			"from": [5, 0, 5],
+			"to": [11, 7, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 7], "texture": "#all"},
+				"east": {"uv": [0, 0, 6, 7], "texture": "#all"},
+				"south": {"uv": [0, 0, 6, 7], "texture": "#all"},
+				"west": {"uv": [0, 0, 6, 7], "texture": "#all"},
+				"up": {"uv": [12, 6, 6, 0], "texture": "#all"},
+				"down": {"uv": [12, 6, 6, 12], "texture": "#all"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [6, 7, 6],
+			"to": [10, 8, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 11, 4, 12], "texture": "#all"},
+				"east": {"uv": [0, 11, 4, 12], "texture": "#all"},
+				"south": {"uv": [0, 11, 4, 12], "texture": "#all"},
+				"west": {"uv": [0, 11, 4, 12], "texture": "#all"},
+				"up": {"uv": [4, 11, 0, 7], "texture": "#all"}
+			}
+		},
+		{
+			"name": "lid",
+			"from": [7, 8, 7],
+			"to": [9, 9, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 11, 6, 12], "texture": "#all"},
+				"east": {"uv": [4, 11, 6, 12], "texture": "#all"},
+				"south": {"uv": [4, 11, 6, 12], "texture": "#all"},
+				"west": {"uv": [4, 11, 6, 12], "texture": "#all"},
+				"up": {"uv": [6, 9, 4, 7], "texture": "#all"},
+				"down": {"uv": [6, 9, 4, 11], "texture": "#all"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.5, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 2.5, -3]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 2.5, -3]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 5, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"head": {
+			"translation": [0, 11.75, 0],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"fixed": {
+			"translation": [0, 3.75, 0]
+		}
+	}
+}

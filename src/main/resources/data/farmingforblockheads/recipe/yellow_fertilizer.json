@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": "minecraft:dirt",
+    "G": "#c:dyes/yellow",
+    "N": "#c:nuggets/gold",
+    "S": "minecraft:wheat_seeds"
+  },
+  "pattern": [
+    "GGG",
+    "NSN",
+    "DDD"
+  ],
+  "result": {
+    "count": 4,
+    "id": "farmingforblockheads:yellow_fertilizer"
+  }
+}

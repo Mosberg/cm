@@ -1,0 +1,32 @@
+{
+  "values": [
+    "minecraft:vault",
+    "minecraft:piston_head",
+    "minecraft:moving_piston",
+    "minecraft:end_portal_frame",
+    "minecraft:nether_portal",
+    "minecraft:big_dripleaf",
+    "minecraft:big_dripleaf_stem",
+    "minecraft:small_dripleaf",
+    {
+      "id": "#minecraft:shulker_boxes",
+      "required": false
+    },
+    {
+      "id": "#c:relocation_not_supported",
+      "required": false
+    },
+    {
+      "id": "#minecraft:beds",
+      "required": false
+    },
+    {
+      "id": "#minecraft:maintains_farmland",
+      "required": false
+    },
+    {
+      "id": "trailiertales:coffin",
+      "required": false
+    }
+  ]
+}

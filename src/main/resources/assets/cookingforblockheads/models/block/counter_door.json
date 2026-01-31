@@ -1,0 +1,35 @@
+{
+	"credit": "Designed by Blay09 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"all": "block/terracotta",
+		"particle": "block/terracotta",
+		"handle": "cookingforblockheads:block/handle"
+	},
+	"elements": [
+		{
+			"name": "Door",
+			"from": [2.5, 2.5, 0.5],
+			"to": [13.5, 13.5, 1.5],
+			"faces": {
+				"north": {"uv": [2.5, 3.5, 13.5, 14.5], "texture": "#all"},
+				"east": {"uv": [15, 3.5, 16, 14.5], "texture": "#all"},
+				"south": {"uv": [2.5, 3.5, 13.5, 14.5], "texture": "#all"},
+				"west": {"uv": [0, 3.5, 1, 14.5], "texture": "#all"},
+				"up": {"uv": [2.5, 0, 13.5, 1], "texture": "#all"},
+				"down": {"uv": [2.5, 15, 13.5, 16], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Handle",
+			"from": [3.5, 8, 0.01],
+			"to": [4.5, 10, 0.51],
+			"faces": {
+				"north": {"uv": [11.5, 6, 12.5, 8], "texture": "#handle"},
+				"east": {"uv": [15.5, 6, 16, 8], "texture": "#handle"},
+				"west": {"uv": [0, 6, 0.5, 8], "texture": "#handle"},
+				"up": {"uv": [3.5, 0, 4.5, 0.5], "texture": "#handle"},
+				"down": {"uv": [3.5, 15.5, 4.5, 16], "texture": "#handle"}
+			}
+		}
+	]
+}

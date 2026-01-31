@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": "minecraft:bone_meal",
+    "N": "minecraft:gold_nugget",
+    "R": "#c:dyes/red",
+    "S": "minecraft:wheat_seeds"
+  },
+  "pattern": [
+    "RRR",
+    "NSN",
+    "BBB"
+  ],
+  "result": {
+    "count": 4,
+    "id": "farmingforblockheads:red_fertilizer"
+  }
+}

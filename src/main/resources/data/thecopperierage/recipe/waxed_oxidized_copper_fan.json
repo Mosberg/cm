@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": "minecraft:cobblestone",
+    "/": "minecraft:breeze_rod",
+    "R": "minecraft:redstone",
+    "X": "minecraft:waxed_oxidized_copper"
+  },
+  "pattern": [
+    "###",
+    "X/X",
+    "XRX"
+  ],
+  "result": {
+    "count": 4,
+    "id": "thecopperierage:waxed_oxidized_copper_fan"
+  }
+}

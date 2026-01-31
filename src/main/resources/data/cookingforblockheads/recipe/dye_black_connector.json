@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#cookingforblockheads:connectors",
+    "#c:dyes/black"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cookingforblockheads:black_connector"
+  }
+}

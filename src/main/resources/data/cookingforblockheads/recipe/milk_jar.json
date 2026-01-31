@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:glass",
+    "M": "minecraft:milk_bucket",
+    "P": "#minecraft:planks"
+  },
+  "pattern": [
+    "GPG",
+    "GMG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cookingforblockheads:milk_jar"
+  }
+}

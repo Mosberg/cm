@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_fire_side",
+  "textures": {
+    "fire": "thecopperierage:block/copper_fire_0"
+  }
+}

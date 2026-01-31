@@ -1,0 +1,8 @@
+{
+  "type": "farmingforblockheads:market",
+  "result": {
+    "count": 1,
+    "item": "minecraft:brown_mushroom"
+  },
+  "defaults": "selling.mushrooms.minecraft.brown_mushroom"
+}

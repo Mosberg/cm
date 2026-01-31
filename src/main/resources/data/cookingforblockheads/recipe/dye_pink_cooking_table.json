@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#cookingforblockheads:cooking_tables",
+    "#c:dyes/pink"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cookingforblockheads:pink_cooking_table"
+  }
+}

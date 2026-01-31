@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": "minecraft:furnace",
+    "G": "minecraft:black_stained_glass",
+    "I": "#c:ingots/iron"
+  },
+  "pattern": [
+    "GGG",
+    "IFI",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cookingforblockheads:white_oven"
+  }
+}

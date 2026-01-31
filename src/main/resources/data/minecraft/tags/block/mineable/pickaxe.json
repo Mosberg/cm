@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "#thecopperierage:gearboxes",
+      "required": false
+    },
+    {
+      "id": "#thecopperierage:copper_fans",
+      "required": false
+    },
+    {
+      "id": "#thecopperierage:chimes",
+      "required": false
+    },
+    {
+      "id": "#thecopperierage:copper_buttons",
+      "required": false
+    },
+    {
+      "id": "#thecopperierage:copper_pressure_plates",
+      "required": false
+    }
+  ]
+}

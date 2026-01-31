@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "#c:dyes/green",
+    "N": "minecraft:gold_nugget",
+    "S": "minecraft:wheat_seeds",
+    "W": "minecraft:wheat"
+  },
+  "pattern": [
+    "GGG",
+    "NSN",
+    "WWW"
+  ],
+  "result": {
+    "count": 4,
+    "id": "farmingforblockheads:green_fertilizer"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#cookingforblockheads:cooking_tables",
+    "#c:dyes/lime"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cookingforblockheads:lime_cooking_table"
+  }
+}

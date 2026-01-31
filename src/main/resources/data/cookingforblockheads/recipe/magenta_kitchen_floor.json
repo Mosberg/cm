@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": "#c:dyes/magenta",
+    "F": "cookingforblockheads:white_kitchen_floor"
+  },
+  "pattern": [
+    "FFF",
+    "FDF",
+    "FFF"
+  ],
+  "result": {
+    "count": 8,
+    "id": "cookingforblockheads:magenta_kitchen_floor"
+  }
+}
