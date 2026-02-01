@@ -1,0 +1,6 @@
+{
+  "parent": "cm:block/template_fitting",
+  "textures": {
+    "texture": "cm:block/weathered_copper_fitting"
+  }
+}

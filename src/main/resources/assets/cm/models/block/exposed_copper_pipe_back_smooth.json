@@ -1,0 +1,6 @@
+{
+  "parent": "cm:block/template_pipe_back_smooth",
+  "textures": {
+    "side": "cm:block/exposed_copper_pipe"
+  }
+}

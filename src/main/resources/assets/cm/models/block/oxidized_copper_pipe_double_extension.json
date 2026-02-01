@@ -1,0 +1,6 @@
+{
+  "parent": "cm:block/template_pipe_double_extension",
+  "textures": {
+    "side": "cm:block/oxidized_copper_pipe"
+  }
+}

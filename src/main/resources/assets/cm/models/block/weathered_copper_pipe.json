@@ -1,0 +1,7 @@
+{
+  "parent": "cm:block/template_pipe",
+  "textures": {
+    "front": "cm:block/weathered_copper_pipe_front",
+    "side": "cm:block/weathered_copper_pipe"
+  }
+}
