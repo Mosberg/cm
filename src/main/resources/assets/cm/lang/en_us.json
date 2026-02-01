@@ -1,0 +1,49 @@
+{
+  "block.cm.copper_pipe": "Copper Pipe",
+  "block.cm.exposed_copper_pipe": "Exposed Copper Pipe",
+  "block.cm.weathered_copper_pipe": "Weathered Copper Pipe",
+  "block.cm.oxidized_copper_pipe": "Oxidized Copper Pipe",
+  "block.cm.waxed_copper_pipe": "Waxed Copper Pipe",
+  "block.cm.waxed_exposed_copper_pipe": "Waxed Exposed Copper Pipe",
+  "block.cm.waxed_weathered_copper_pipe": "Waxed Weathered Copper Pipe",
+  "block.cm.waxed_oxidized_copper_pipe": "Waxed Oxidized Copper Pipe",
+
+  "block.cm.copper_fitting": "Copper Fitting",
+  "block.cm.exposed_copper_fitting": "Exposed Copper Fitting",
+  "block.cm.weathered_copper_fitting": "Weathered Copper Fitting",
+  "block.cm.oxidized_copper_fitting": "Oxidized Copper Fitting",
+  "block.cm.waxed_copper_fitting": "Waxed Copper Fitting",
+  "block.cm.waxed_exposed_copper_fitting": "Waxed Exposed Copper Fitting",
+  "block.cm.waxed_weathered_copper_fitting": "Waxed Weathered Copper Fitting",
+  "block.cm.waxed_oxidized_copper_fitting": "Waxed Oxidized Copper Fitting",
+
+  "subtitles.block.copper_pipe.item_in": "Item enters pipe",
+  "subtitles.block.copper_pipe.item_out": "Item exits pipe",
+  "subtitles.block.copper_pipe.launch": "Item launched from pipe",
+
+  "stat.cm.inspect_copper_pipe": "Copper Pipes Searched",
+  "stat.cm.inspect_copper_fitting": "Copper Fittings Searched",
+
+  "option.cm.component.title": "Simple Copper Pipes Config",
+  "option.cm.false": "§cDisabled",
+  "option.cm.true": "§aEnabled",
+
+  "option.cm.openable_fittings": "Openable Fittings",
+  "tooltip.cm.openable_fittings": "Whether Copper Fittings should have an interactable GUI.",
+
+  "option.cm.dispensing": "Dispensing",
+  "tooltip.cm.dispensing": "Whether Copper Pipes should be able to dispense items.",
+  "option.cm.dispense_sounds": "Dispense Sounds",
+  "tooltip.cm.dispense_sounds": "Whether Copper Pipes will play a sound upon dispensing an item.",
+  "option.cm.suction_sounds": "Suction Sounds",
+  "tooltip.cm.suction_sounds": "Whether Copper Pipes will play a sound upon sucking in a new item.",
+  "option.cm.sense_game_events": "Sense Game Events",
+  "tooltip.cm.sense_game_events": "Whether Copper Pipes will pick up Game Events (Vibrations.)",
+
+  "option.cm.carry_water": "Water Carrying",
+  "tooltip.cm.carry_water": "Whether Copper Pipes and Fittings can carry Water.",
+  "option.cm.carry_lava": "Lava Carrying",
+  "tooltip.cm.carry_lava": "Whether Copper Pipes and Fittings can carry Lava.",
+  "option.cm.carry_smoke": "Smoke Carrying",
+  "tooltip.cm.carry_smoke": "Whether Copper Pipes and Fittings can carry Smoke."
+}
